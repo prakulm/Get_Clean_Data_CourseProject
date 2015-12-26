@@ -1,9 +1,11 @@
 This is Code book
 
 Variables Included in final file (tidy_data.txt) are listed below - 
----------------------------------------------------------------------------------------
- Variable Name     |      Data Type |  Sample Values                                  
+-------------------------------------------------------------
+| Variable Name     |      Data Type |  Sample Values        |
+-------------------------------------------------------------
 | subject_id      |         : int  | 1 1 1 1 1 1 2 2 2 2 ... |
+-------------------------------------------------------------
 2. activity_description     : Factor w/ 6 levels "LAYING","SITTING"..
   tBodyAcc_mean_X          : num  0.222 0.261 0.279 0.277 0.289 ...
   tBodyAcc_mean_Y          : num  -0.04051 -0.00131 -0.01614 -0.01738 -0.00992 ...
