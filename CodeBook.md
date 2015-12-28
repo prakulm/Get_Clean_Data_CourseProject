@@ -1,4 +1,5 @@
-This is Code book.Variables Included in final file (tidy_data.txt) are listed below - 
+##This is Code book.Variables Included in final file (tidy_data.txt) are listed below - 
+###There are 81 variables in total in final file created.
 
  Variable Name           Data Type   Sample Values        
 
