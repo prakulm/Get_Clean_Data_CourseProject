@@ -1,4 +1,15 @@
-## Approach Followed for the Analysis
+##Script File Name: run_analysis.R
+
+####Introduction-
+
+This script performs the steps required for the "Getting and Cleaning Data" Course Project.
+
+####Prerequisties
+
+The analysis script expects the data to be available in the current working directory in a folder called "getdata-projectfiles-UCI HAR Dataset". This folder contains all unzipped data.
+
+
+#### Approach Followed for the Analysis
 
 Steps followed for carrying out analysis are listed below- 
 
@@ -12,3 +23,7 @@ Steps followed for carrying out analysis are listed below-
 8. Replace activity labels with activity descriptions
 9. Calculate mean of all metrics for each combination of subject Id and Activity Description. This creates final tidy data set
 10. Export final tidy data file into a text file.
+
+#### Output File: Tidy_Data.txt
+
+File contains final results of run_analysis.R
